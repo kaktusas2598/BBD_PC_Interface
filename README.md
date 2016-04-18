@@ -1,2 +1,5 @@
 # BBD_PC_Interface
-PC iinterface(Web App) of my Final Thesis.
+
+PC interface(Web App) of my Final Thesis: "Environment Monitoring and Control System"
+
+Web App Uses NodeJS, ExpressJS, MongoDB, ReactJS, Material-UI, nodejs serialport, socket.io and tools
