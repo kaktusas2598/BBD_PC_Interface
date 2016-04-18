@@ -1,0 +1,33 @@
+{
+  "name": "BBD_PC_Interface",
+  "version": "0.0.1",
+  "description": "This is web application to configure Environment Monitoring and Control System.",
+  "main": "server.js",
+  "author": "Nerijus Vilčinskas",
+  "homepage": "https://github.com/kaktusas2598/BBD_PC_Interface",
+  "repository": {
+    "type": "git",
+     "url": "https://github.com/kaktusas2598/BBD_PC_Interface"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "browserify": "^13.0.0",
+    "cookie-parser": "^1.4.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "griddle-react": "^0.5.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "material-ui": "^0.14.4",
+    "mongoose": "^4.4.12",
+    "node-jsx": "^0.13.3",
+    "path": "^0.12.7",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5",
+    "react-bootstrap":"^0.28.1",
+    "react-tap-event-plugin": "^0.2.1",
+    "reactify": "^1.1.1",
+    "serialport": "^2.1.0",
+    "socket.io": "^1.4.5"
+  }
+}
